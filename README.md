@@ -18,13 +18,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarEl-Khashab&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=OmarEl-Khashab&theme=default&hide_border=false)<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OmarEl-Khashab&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarEl-Khashab&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=OmarEl-Khashab&theme=default&hide_border=false)<br/>
-
-
 <!---
 OmarEl-Khashab/OmarEl-Khashab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
